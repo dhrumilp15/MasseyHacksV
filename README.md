@@ -1,3 +1,6 @@
 # MasseyHacksV
 
-## Cool cat saves the kids
+ > Dhrumil Patel
+ > Carter Tang
+ > Ryan Seto
+ > Timothy Wang
