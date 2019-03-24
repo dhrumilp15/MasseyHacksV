@@ -18,6 +18,12 @@
   "homepage": "https://github.com/dhrumilp15/MasseyHacksV#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.16.4"
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "keyword-extractor": "0.0.16",
+    "natural": "^0.6.3",
+    "request": "^2.88.0",
+    "socket.io": "^2.2.0"
   }
 }
