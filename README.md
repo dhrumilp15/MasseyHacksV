@@ -2,7 +2,7 @@
 
 
 ### Contributors
- - Dhrumil Patel
+ > Dhrumil Patel
  
  > Carter Tang
  
